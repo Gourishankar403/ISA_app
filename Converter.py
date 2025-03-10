@@ -1,12 +1,12 @@
 import streamlit as st
 
-# Set up Streamlit page
+# Setting up Streamlit page
 st.set_page_config(page_title="Currency Converter",layout="wide")  
 st.sidebar.header("Interconvert Thai Baht | Chinese Yuan | USD | Indian Rupee")
 st.sidebar.write("Made with ❤️ ")
 st.sidebar.write('Powered by Python')
 st.header("What currency do you have?")
-st.subheader("Seamlessly convert Thai Baht | Chinese Yuan | USD | Indian Rupee")
+st.subheader("Seamlessly interconvert Thai Baht | Chinese Yuan | USD | Indian Rupee")
 
 
 
